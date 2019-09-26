@@ -8,6 +8,9 @@ https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
 
 https://stattrek.com/hypothesis-test/proportion.aspx?Tutorial=AP
 
+https://medium.com/analytics-vidhya/balance-your-data-using-smote-98e4d79fcddb
+(How to Deal with Imbalanced Data using SMOTE)
+
 #Reading a file 
 
 import csv
