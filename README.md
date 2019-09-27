@@ -11,6 +11,9 @@ https://stattrek.com/hypothesis-test/proportion.aspx?Tutorial=AP
 https://medium.com/analytics-vidhya/balance-your-data-using-smote-98e4d79fcddb
 (How to Deal with Imbalanced Data using SMOTE)
 
+https://towardsdatascience.com/step-by-step-guide-to-creating-r-and-python-libraries-e81bbea87911
+(Step-by-Step Guide to Creating R and Python Libraries (in JupyterLab))
+
 #Reading a file 
 
 import csv
