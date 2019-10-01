@@ -18,7 +18,8 @@ Towards Data Science Articles:
 (Graph Algorithms)
 https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513
 
-SEABORN: seaborn.pydata.org/tutorial/color_palettes.html
+SEABORN: 
+seaborn.pydata.org/tutorial/color_palettes.html
 
 #Reading a file 
 
