@@ -14,6 +14,11 @@ https://medium.com/analytics-vidhya/balance-your-data-using-smote-98e4d79fcddb
 https://towardsdatascience.com/step-by-step-guide-to-creating-r-and-python-libraries-e81bbea87911
 (Step-by-Step Guide to Creating R and Python Libraries (in JupyterLab))
 
+TOwards Data Science Articles:
+(Graph Algorithms)
+https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513
+
+
 #Reading a file 
 
 import csv
