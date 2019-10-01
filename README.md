@@ -20,6 +20,7 @@ https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-yo
 
 SEABORN: 
 seaborn.pydata.org/tutorial/color_palettes.html
+http://seaborn.pydata.org/tutorial/aesthetics.html
 
 #Reading a file 
 
