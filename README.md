@@ -22,6 +22,9 @@ SEABORN:
 seaborn.pydata.org/tutorial/color_palettes.html
 http://seaborn.pydata.org/tutorial/aesthetics.html
 
+Puthon Counter() function:
+https://medium.com/datadriveninvestor/an-introduction-to-python-counter-47948fdd9c1a
+
 #Reading a file 
 
 import csv
