@@ -22,8 +22,12 @@ SEABORN:
 seaborn.pydata.org/tutorial/color_palettes.html
 http://seaborn.pydata.org/tutorial/aesthetics.html
 
-Puthon Counter() function:
+Python Counter() function:
 https://medium.com/datadriveninvestor/an-introduction-to-python-counter-47948fdd9c1a
+
+25 Useful Python Snippets to Help in Your Day-to-Day Work
+https://medium.com/better-programming/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b
+
 
 #Reading a file 
 
