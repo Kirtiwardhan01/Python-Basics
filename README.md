@@ -28,6 +28,8 @@ https://medium.com/datadriveninvestor/an-introduction-to-python-counter-47948fdd
 25 Useful Python Snippets to Help in Your Day-to-Day Work
 https://medium.com/better-programming/25-useful-python-snippets-to-help-in-your-day-to-day-work-d59c636ec1b
 
+Swifter packaage to make pandas apply faster
+https://towardsdatascience.com/add-this-single-word-to-make-your-pandas-apply-faster-90ee2fffe9e8 
 
 #Reading a file 
 
