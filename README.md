@@ -31,6 +31,9 @@ https://medium.com/better-programming/25-useful-python-snippets-to-help-in-your-
 Swifter packaage to make pandas apply faster
 https://towardsdatascience.com/add-this-single-word-to-make-your-pandas-apply-faster-90ee2fffe9e8 
 
+Introducing Bamboolib — a GUI for Pandas
+https://towardsdatascience.com/introducing-bamboolib-a-gui-for-pandas-4f6c091089e3
+
 #Reading a file 
 
 import csv
