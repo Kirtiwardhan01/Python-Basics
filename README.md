@@ -34,6 +34,9 @@ https://towardsdatascience.com/add-this-single-word-to-make-your-pandas-apply-fa
 Introducing Bamboolib — a GUI for Pandas
 https://towardsdatascience.com/introducing-bamboolib-a-gui-for-pandas-4f6c091089e3
 
+I wasn’t getting hired as a Data Scientist. So I sought data on who is 
+https://towardsdatascience.com/i-wasnt-getting-hired-as-a-data-scientist-so-i-sought-data-on-who-is-c59afd7d56f5
+
 #Reading a file 
 
 import csv
