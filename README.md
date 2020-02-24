@@ -43,3 +43,6 @@ import csv
 with open('winequality-red.csv', 'r') as f:
 wines = list(csv.reader(f, delimiter=';'))
 print(wines[:3])
+
+Introduction to Anomaly Detection in Python
+https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/
